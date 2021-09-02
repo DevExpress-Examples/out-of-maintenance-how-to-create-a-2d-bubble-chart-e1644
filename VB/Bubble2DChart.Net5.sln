@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 16
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bubble2DChart", "Bubble2DChart.Net5.vbproj", "{86BFD79C-D7B9-4898-BB14-88C4A47BA3D7}"
 EndProject
